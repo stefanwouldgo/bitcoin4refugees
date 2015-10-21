@@ -141,10 +141,10 @@ no permission from credit card companies/paypal needed
 * We hope you have some questions
 * Dinner and a movie?
 * Image Credits
-**  [[https://www.flickr.com/photos/132889348@N07/20607150556/][„Binary Code“ by Christiaan Colen (CC BY-SA 2.0)]]
-**  [[https://www.flickr.com/photos/95213174@N08/13201116424/in/photolist-m7xaZA-gq1Huo][“Wechseln” by blu-news.org (CC BY-SA 2.0)]]
-**  [[https://www.flickr.com/photos/pong/288491653/][“Safe” by Rob Pongsajapan (CC BY 2.0)]]
-**  [[https://www.flickr.com/photos/jason_benjamin/8631889823/in/photostream/][“Bitcoin Wallpaper (2560x1600)” by Jason Benjamin (CC0)]]
-** [[https://www.flickr.com/photos/59937401@N07/5856660723/][ “Money from around the world” by Images Money (CC BY 2.0)]]
+**  [[https://www.flickr.com/photos/132889348@N07/20607150556/][„Binary Code“ by Christiaan Colen]] [[https://creativecommons.org/licenses/by-sa/2.0/][(CC BY-SA 2.0)]]
+**  [[https://www.flickr.com/photos/95213174@N08/13201116424/in/photolist-m7xaZA-gq1Huo][“Wechseln” by blu-news.org]] [[https://creativecommons.org/licenses/by-sa/2.0/][(CC BY-SA 2.0)]]
+**  [[https://www.flickr.com/photos/pong/288491653/][“Safe” by Rob Pongsajapan]] [[https://creativecommons.org/licenses/by/2.0/][(CC BY 2.0)]]
+**  [[https://www.flickr.com/photos/jason_benjamin/8631889823/in/photostream/][“Bitcoin Wallpaper (2560x1600)” by Jason Benjamin]] [[https://creativecommons.org/publicdomain/zero/1.0/][(CC0)]]
+** [[https://www.flickr.com/photos/59937401@N07/5856660723/][ “Money from around the world” by Images Money]] [[https://creativecommons.org/licenses/by/2.0/][(CC BY 2.0)]]
 **  "Decentral" by Manuel Madrenes
 **  "Levin" by Friedemann Brenneis

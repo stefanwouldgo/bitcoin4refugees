@@ -1,0 +1,48 @@
+
+* Halberstadt Bitcoin Workshop Slides
+by Friedemann Brenneis, Manuel Madrenes, Stefan Richter
+
+These are slightly modified slides originally made for a Bitcoin introductory
+workshop meant for refugees (in English). We held this workshop in 2015 in
+Halberstadt and it has been documented (in German) [[https://coinspondent.de/2015/09/25/rueckblick-bitcoin-workshop-in-halberstadt/][here]]. 
+
+We believe that Bitcoin is an ideal match for people who need to transcend
+borders. So we hope you can help us introduce them to the topic, and maybe these
+slides can help you. They are very sparse and general, however, so they might be
+useful for any Bitcoin introductory talk, maybe with slight modifications.
+
+Two concepts have been important for us when designing them: 
+
+*** Use cases only 
+
+We have tried not to introduce ANY technical concepts, but ONLY talk about use
+cases. 
+
+*** Questions first
+
+The slides are really only meant as a guiding structure in which we can talk
+freely and, most importantly, answer questions. Originally, we intended to talk
+10 minutes and then answer questions for an hour. In reality, the talk
+took 2 hours because there were so many questions in between.
+
+Following this concept, the first concept has been subverted whenever someone
+asked us a technical question. Interestingly, there hasn't been a lot of that.
+So we really think it is a good idea to not force technical details upon people
+unless they ask for them.
+
+** License
+
+These slides and their source code are licensed under a [[https://creativecommons.org/licenses/by-sa/4.0/][Creative Commons
+Attribution ShareAlike 4.0 license]]. You are free to remix and use the material
+here in your own talks.
+ 
+** Technology
+
+The slides have been made using the great [[https://github.com/yjwen/org-reveal][org-reveal]], which allows for exporting
+[[http://orgmode.org/][Emacs org mode]] documents into nice-looking [[https://github.com/hakimel/reveal.js/][reveal.js]] presentations which can
+then be shown using a simple browser. The big html file already contains
+reveal.js and the images (you can also generate a much smaller file if you have
+a local copy of these things). Unfortunately, the images that are shown in the
+background do not seem to get embedded by org-reveal, so you need to have these
+available locally even if you use the big file.
+
