@@ -1,0 +1,150 @@
+#+Title: Halberstadt Bitcoin Workshop
+#+Author: Friedemann Brenneis, Manuel Madrenes, Stefan Richter
+#+Email: 
+
+#+OPTIONS: reveal_center:t reveal_progress:t reveal_history:nil reveal_control:t
+#+OPTIONS: reveal_mathjax:t reveal_rolling_links:t reveal_keyboard:t reveal_overview:t num:nil
+#+OPTIONS: reveal_width:1600 reveal_height:900
+#+OPTIONS: toc:1
+#+OPTIONS: reveal_single_file:t
+#+REVEAL_MARGIN: 0.1
+#+REVEAL_MIN_SCALE: 0.5
+#+REVEAL_MAX_SCALE: 2.5
+#+REVEAL_TRANS: cube
+#+REVEAL_THEME: night
+#+REVEAL_HLEVEL: 1
+#+REVEAL_HEAD_PREAMBLE: <meta name="description" content="Org-Reveal Introduction.">
+#+REVEAL_PLUGINS: (highlight markdown notes)
+#+REVEAL_EXTRA_CSS: ./local.css
+
+
+* Halberstadt Bitcoin Workshop 
+Friedemann Brenneis, Manuel Madrenes, Stefan Richter
+
+[[./headline.png]] 
+
+* What is Bitcoin?
+:PROPERTIES:
+    :reveal_background: ./Bitcoin.jpg
+    :reveal_background_size: 900px
+:END:      
+
+Decentralized, Digital Money
+** Money
+ :PROPERTIES:
+    :reveal_background: ./Money.jpg
+    :reveal_background_size: 900px
+    :END:
+
+**** fungible
+**** divisible
+**** portable
+**** durable
+**** scarce
+** Digital
+:PROPERTIES:
+    :reveal_background: ./digital2.jpg
+    :reveal_background_size: 900px
+    :END:
+
+**** useful for the internet
+**** fast
+**** no borders
+**** backups
+**** cheap
+**** protect with password/encryption
+** Decentralized
+#+ATTR_HTML: :width 600
+    [[./decentralized.png]]
+
+**** no middle man (less COSTly)
+**** no TRUSTed third party
+**** no CENSORship
+* What can I do with bitcoin?
+** anything you can do with digital money
+without needing a bank, though you do need internet access
+**** more than 2.5 billion people don't have a bank account (World Bank)
+**** buy and sell goods and services 
+even where traditional money doesn't work well (inflation, lack of infrastructure ...)
+**** buy and sell stuff on the internet from anywhere
+no permission from credit card companies/paypal needed
+** remittances: send money home
+:PROPERTIES:
+    :reveal_background: ./remittances2.jpg
+    :reveal_background_size: 900px
+:END:      
+
+| Western Union | ~10% fee + exchange fee |
+|Paypal | 0.10-0.35 Euro + 1.8-10% fee + exchange fee|
+|Bitcoin  | ~0.02 Euro transaction fee + exchange fee|
+
+*** example services
+**** https://rebit.ph/ https://palarin.com/ (Philippines)
+**** https://rebittance.org/ (12 countries)
+**** https://www.bitpesa.co/ (Kenia, Tanzania)
+**** https://bitstake.co/ (Nigeria)
+** take money across borders
+**** take any of
+***** usb stick
+***** paper
+***** brain
+***** email/dropbox/...
+**** any secure digital transfer
+** build new services
+**** exchange for legacy money
+**** wallets
+**** custody
+**** games: yope.io
+**** teaching
+**** nonprofits: http://givebtc.org/
+* How can I use bitcoin safely and securely?
+#+ATTR_HTML: :width 800
+[[./secure.jpg]]
+
+** small money
+[[https://bitcoin.org/en/choose-your-wallet][https://bitcoin.org/en/choose-your-wallet]]
+[[./SmallMoney.png]]
+** big money
+
+**** big topic
+**** any combination of
+***** hardware wallets 
+***** dedicated (offline) computer
+***** insured services
+***** multisignature
+***** paper wallet
+**** different possibilities, different opinions, different people
+**** ask us if you're interested
+
+
+
+* How do I get bitcoins?
+
+** localbitcoins alternatives
+ :PROPERTIES:
+    :reveal_background: ./BXB.jpg
+    :reveal_background_size: 900px
+    :END:
+
+**** mycelium
+**** bitcoin-treff.de
+**** Bitcoin Exchange Berlin (BXB), once a month
+** Exchanges - if you have a bank account 
+**** bitcoin.de
+**** kraken
+**** bitfinex
+**** bitstamp ...
+** offer goods and services for bitcoin
+** from us! after the show ;)
+
+* Let us show you ...
+* We hope you have some questions
+* Dinner and a movie?
+* Image Credits
+**  [[https://www.flickr.com/photos/132889348@N07/20607150556/][„Binary Code“ by Christiaan Colen (CC BY-SA 2.0)]]
+**  [[https://www.flickr.com/photos/95213174@N08/13201116424/in/photolist-m7xaZA-gq1Huo][“Wechseln” by blu-news.org (CC BY-SA 2.0)]]
+**  [[https://www.flickr.com/photos/pong/288491653/][“Safe” by Rob Pongsajapan (CC BY 2.0)]]
+**  [[https://www.flickr.com/photos/jason_benjamin/8631889823/in/photostream/][“Bitcoin Wallpaper (2560x1600)” by Jason Benjamin (CC0)]]
+** [[https://www.flickr.com/photos/59937401@N07/5856660723/][ “Money from around the world” by Images Money (CC BY 2.0)]]
+**  "Decentral" by Manuel Madrenes
+**  "Levin" by Friedemann Brenneis
