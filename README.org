@@ -27,7 +27,7 @@ took 2 hours because there were so many questions in between.
 
 Following this concept, the first concept has been subverted whenever someone
 asked us a technical question. Interestingly, there hasn't been a lot of that.
-So we really think it is a good idea to not force technical details upon people
+So we really think it is a good idea not to force technical details upon people
 unless they ask for them.
 
 ** License
